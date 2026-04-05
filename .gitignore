@@ -1,0 +1,10 @@
+asl_env/
+__pycache__/
+*.pyc
+*.h5
+*.keras
+*.npy
+*.mp4
+*.csv
+dataset/
+models/
